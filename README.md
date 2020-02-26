@@ -1,7 +1,7 @@
 # Membean Bot
 Fully functional Membean bot that receives frequent updates. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. 
 
-# Version - Current: 2.0 Beta
+# Version - Current: 2.0
 - Version 3 currently in beta
   - New look
   - Creates a log of all new words
