@@ -18,7 +18,8 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
 - Depending on when you start the bot, you may miss the first 1-2 questions
 
 # Bugs
-- There are no known bugs
+- Version 2.0
+  - Bug with turning the bot on and off as well as with the alert - fixed soon
 
 # Legal Information - READ
 - The creator of the bot is not responsible for any punishment given to a consumer, no matter the conequence or circumstance surrouding it
