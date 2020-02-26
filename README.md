@@ -15,5 +15,8 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
 # Information
 - Depending on when you start the bot, you may miss the first 1-2 questions
 
+# Bugs
+- There are no known bugs
+
 # Legal Information - READ
 - The creator of the bot is not responsible for any punishment given to a consumer, no matter the conequence or circumstance surrouding it
