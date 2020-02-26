@@ -1,11 +1,19 @@
 # Membean Bot
 Fully functional Membean bot that receives frequent updates. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. 
 
-# Version - Current: 1.1
-- Version 2 currently in beta, release soon
-  - Allows user to choose to skip new words and get notified of new words
+# Version - Current: 2.0 Beta
+- Version 3 currently in beta
+  - New look
   - Creates a log of all new words
-# Information
+  - Hides controls to prevent detention by teacher
 
-- You may miss the first question
-- Skips the studies, so if you want to know them make sure to wait for the version that allows you to turn it off
+# Operating the Bot
+- Open the inspector window (ctrl + shift + I for most devices)
+- Copy and paste whichever version you choose into the inspector window
+- If version allows you to turn the bot on and off (versions past 1.1) start the bot as clost to the beginning of the question or before as possible
+
+# Information
+- Depending on when you start the bot, you may miss the first 1-2 questions
+
+# Legal Information - READ
+- The creator of the bot is not responsible for any punishment given to a consumer
