@@ -1,4 +1,5 @@
-//Use function always running to set pass button to visible document.getElementById("pass__event").type = "visible";, and when it works use another function
+//Membean Bot Version 1.0 by FinishedManx843
+//Download new versions on github.com/FinishedManx843/Membean_Bot
 
 var check;
 var x;
