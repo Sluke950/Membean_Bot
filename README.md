@@ -6,3 +6,4 @@
 - Coming Soon
   - Ability to hide the control bar
   - New look
+  - Create a log of new words to study from
