@@ -1,3 +1,5 @@
+//Membean Bot Version 1.1 by FinishedManx843
+//Download new versions on github.com/FinishedManx843/Membean_Bot
 var check;
 var x;
 var time = 5000;
