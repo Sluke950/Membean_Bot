@@ -55,7 +55,7 @@ function test() {
 	}
 } function set(type) {
 	if(type == "click") {//waits time to click
-		let rand = Math.floor(Math.random() * (31 - 10)) + 10; 
+		let rand = Math.floor(Math.random() * (30 - 10)) + 10; 
 		
 		rand = rand * 1000;
 		console.log(rand);
