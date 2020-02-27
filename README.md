@@ -1,25 +1,8 @@
-# Membean Bot
-Fully functional Membean bot that receives frequent updates. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. 
-
-# Version - Current: 2.0
-- Version 3 currently in beta
+# Membean Bot - Version 3 Beta
+- Features
+    - Answeres questions 100% accurately after a random amount of time (between 10 and 30 seconds)
+    - Allows bot to be switched on and off
+    - Allows user to choose wether or not to skip new questions
+- Coming Soon
+  - Ability to hide the control bar
   - New look
-  - Creates a log of all new words
-  - Hides controls to prevent detention by teacher
-  - Choose to skip new words
-  - Complete rework to the structure of the code
-
-# Operating the Bot
-- Open the inspector window (ctrl + shift + I for most devices)
-- Copy and paste whichever version you choose into the inspector window
-- If version allows you to turn the bot on and off (versions past 1.1) start the bot as clost to the beginning of the question or before as possible
-
-# Information
-- Depending on when you start the bot, you may miss the first 1-2 questions
-
-# Bugs
-- Version 2.0
-  - Bug with randomization of time - should be fixed, however if problem arises notify me and I will look into it
-
-# Legal Information - READ
-- The creator of the bot is not responsible for any punishment given to a consumer, no matter the conequence or circumstance surrouding it
