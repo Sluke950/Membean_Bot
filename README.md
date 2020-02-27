@@ -19,7 +19,7 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
 
 # Bugs
 - Version 2.0
-  - Bug with turning the bot on and off as well as with the alert - fixed soon
+  - Bug with randomization of time - should be fixed, however if problem arises notify me and I will look into it
 
 # Legal Information - READ
 - The creator of the bot is not responsible for any punishment given to a consumer, no matter the conequence or circumstance surrouding it
