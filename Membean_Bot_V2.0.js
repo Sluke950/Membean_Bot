@@ -55,17 +55,18 @@ function test() {
 	}
 } function set(type) {
 	if(type == "click") {//waits time to click
-		let rand = Math.floor(Math.random() * 31) + 1;
+		let rand = Math.floor(Math.random() * (31 - 10)) + 10; 
+		
 		rand = rand * 1000;
 		console.log(rand);
-		interval.click = setTimeout(press, 5000);
+		interval.click = setTimeout(press, rand);
 	
 	} else if (type == "test") {//starts testing after 1 second
 		interval.deltest = setTimeout(function x(){bool.bot = true;}, 1000);
 	} else if (type == "stop") { //CLEAR ALL TIMEOUTS AND INTERVALS
 		clearTimeout(interval.click);
 		clearTimeout(interval.deltest);
-		bool.bot = false; //may cause a problem
+		bool.bot = false; 
 	}
 } function press() {
 	document.Pass.click();
