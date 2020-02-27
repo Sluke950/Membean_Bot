@@ -1,4 +1,5 @@
-
+//Membean Bot Version 3.0 Beta by FinishedManx843
+//Download new versions on github.com/FinishedManx843/Membean_Bot
 var interval = {
 	"test": "",
 	"click": "",
