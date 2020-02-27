@@ -6,7 +6,7 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
   - New look
   - Creates a log of all new words
   - Hides controls to prevent detention by teacher
-  - Massive bug cleanse
+  - Choose to skip new words
   - Complete rework to the structure of the code
 
 # Operating the Bot
