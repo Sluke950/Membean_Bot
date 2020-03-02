@@ -22,4 +22,4 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
   - Bug with randomization of time - should be fixed, however if problem arises notify me and I will look into it
 
 # Legal Information - READ
-- The creator of the bot is not responsible for any punishment given to a consumer, no matter the conequence or circumstance surrouding it
+- The creator of the bot is not responsible for any punishment given to a consumer, no matter the conequence or circumstance surrouding it. By using this bot you automatically consent to this.
