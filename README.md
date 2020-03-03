@@ -1,5 +1,10 @@
 # Membean Bot
-Fully functional Membean bot that receives frequent updates. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. 
+Fully functional Membean bot that receives frequent updates. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. Most recent version is posted on main branch (this one) and past versions on their own separate branches. Beta versions are new, but have not been fully tested and may have bugs.
+
+# Operating the Bot
+- Open the inspector window (ctrl + shift + I for most devices)
+- Copy and paste whichever version you choose into the inspector window
+- If version allows you to turn the bot on and off (versions past 1.1) start the bot as clost to the beginning of the question or before as possible
 
 # Version - Current: 2.0
 - Version 3 currently in beta
@@ -8,12 +13,7 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
   - Hides controls to prevent detention by teacher
   - Choose to skip new words
   - Complete rework to the structure of the code
-
-# Operating the Bot
-- Open the inspector window (ctrl + shift + I for most devices)
-- Copy and paste whichever version you choose into the inspector window
-- If version allows you to turn the bot on and off (versions past 1.1) start the bot as clost to the beginning of the question or before as possible
-
+  
 # Information
 - Depending on when you start the bot, you may miss the first 1-2 questions
 
