@@ -3,7 +3,7 @@ Fully functional Membean bot that receives frequent updates. Simpy copy and past
 
 # Operating the Bot
 - Open the inspector window (ctrl + shift + I for most devices)
-- Copy and paste whichever version you choose into the inspector window
+- Copy and paste whichever version you choose into the inspector window and press enter
 - If version allows you to turn the bot on and off (versions past 1.1) start the bot as clost to the beginning of the question or before as possible
 
 # Version - Current: 2.0
