@@ -1,5 +1,5 @@
 # Membean Bot
-Fully functional Membean bot that receives frequent updates. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. Most recent version is posted on main branch (this one) and past versions on their own separate branches. Beta versions are new, but have not been fully tested and may have bugs.
+Fully functional Membean bot. Simpy copy and paste into the inspector window and off you go! Made completely with JavaScript. Most recent version is posted on main branch (this one) and past versions on their own separate branches. Beta versions are new, but have not been fully tested and may have bugs.
 
 # Operating the Bot
 - Open the inspector window (ctrl + shift + I for most devices)
